@@ -1,2 +1,2 @@
-# RandomSentencesGeneratorByMartin
-Random Sentences Generator
+# Random Sentences Generator By Martin
+
