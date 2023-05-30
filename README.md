@@ -12,6 +12,6 @@ which performs some action, with a given object somewhere.
 
 
 
-![image](https://github.com/MartinYordanov91/RandomSentencesGeneratorByMartin/assets/124835928/0bee7f2f-0bae-4b0b-96f7-13d16c5ba313)
+![image](https://github.com/MartinYordanov91/RandomSentencesGeneratorByMartin/assets/124835928/aea02858-1db1-48f6-b3d2-eaa47bceca45)
 
 
