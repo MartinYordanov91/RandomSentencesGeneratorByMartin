@@ -1,3 +1,3 @@
 # Random Sentences Generator By Martin
 
-<img alt="image" width="400px" src="pick.png"/>
+<img alt="image"  src="pick.png"/>
